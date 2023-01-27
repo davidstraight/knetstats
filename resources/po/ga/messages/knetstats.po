@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-network/knetstats.po\n"
+"POT-Creation-Date: 2008-07-08 22:20+0200\n"
+"PO-Revision-Date: 2006-03-18 09:16-0500\n"
+"Last-Translator: Kevin Patrick Scannell <scannell@SLU.EDU>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Kevin Scannell"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "scannell at slu dot edu"
+
+#: configure.cpp:128
+msgid "You need to select at least one interface to monitor."
+msgstr ""
+"Ní mór comhéadan amháin ar a laghad a roghnú le haghaidh monatóireachta."
+
+#: knetstats.cpp:89
+msgid "You need kernel 2.6.x with support to the /sys filesystem."
+msgstr "Tá gá le heithne Linux 2.6.x a thacaíonn le córas comhad /sys."
+
+#: knetstats.cpp:187
+#, c-format
+msgid "New interface detected: %1"
+msgstr "Braitheadh comhéadan nua: %1"
+
+#: knetstatsview.cpp:92
+#, c-format
+msgid "Monitoring %1"
+msgstr "Monatóireacht ar %1"
+
+#: knetstatsview.cpp:152
+msgid "%1 is inactive"
+msgstr "Tá %1 neamhghníomhach"
+
+#: knetstatsview.cpp:155
+msgid "%1 is active"
+msgstr "Tá %1 gníomhach"
+
+#: knetstatsview.cpp:172
+msgid "%1 is disconnected"
+msgstr "Tá %1 dínasctha"
+
+#: knetstatsview.cpp:177
+msgid "%1 is connected"
+msgstr "Tá %1 nasctha"
+
+#. i18n: file statisticsbase.ui line 24
+#: main.cpp:33 rc.cpp:78 rc.cpp:201
+#, no-c-format
+msgid "KNetStats"
+msgstr "KNetStats"
+
+#: main.cpp:39
+msgid "A network device monitor."
+msgstr "Monatóir ar ghléasanna líonra."
+
+#: main.cpp:45
+msgid "_: NAME OF TRANSLATORS"
+msgstr "Kevin Scannell"
+
+#: main.cpp:45
+msgid "_: EMAIL OF TRANSLATORS"
+msgstr "scannell at slu dot edu"
+
+#: main.cpp:49
+msgid "SCons help, Debian packages, etc."
+msgstr "Cabhair SCons, pacáistí Debian, srl."
+
+#: main.cpp:50
+msgid "Icon themes"
+msgstr "Téamaí deilbhín"
+
+#: main.cpp:53
+msgid "KNetStats translation to other languages"
+msgstr "Aistriúchán de KNetStats i dteangacha eile"
+
+#: main.cpp:61
+msgid ""
+"You do not have any network interface.\n"
+"KNetStats will quit now."
+msgstr ""
+"Níl comhéadan líonra ar bith agat.\n"
+"Scoirfidh KNetStats anois."
+
+#. i18n: file configurebase.ui line 24
+#: rc.cpp:3 rc.cpp:126
+#, no-c-format
+msgid "Configure KNetStats"
+msgstr "Cumraigh KNetStats"
+
+#. i18n: file configurebase.ui line 63
+#: rc.cpp:6 rc.cpp:129
+#, no-c-format
+msgid "Ok"
+msgstr "OK"
+
+#. i18n: file configurebase.ui line 150
+#: rc.cpp:18 rc.cpp:141
+#, no-c-format
+msgid "Theme:"
+msgstr "Téama:"
+
+#. i18n: file configurebase.ui line 156
+#: rc.cpp:21 rc.cpp:144
+#, no-c-format
+msgid "Classic"
+msgstr "Clasaiceach"
+
+#. i18n: file configurebase.ui line 161
+#: rc.cpp:24 rc.cpp:147
+#, no-c-format
+msgid "Modem"
+msgstr "Móideim"
+
+#. i18n: file configurebase.ui line 166
+#: rc.cpp:27 rc.cpp:150
+#, no-c-format
+msgid "Network"
+msgstr "Líonra"
+
+#. i18n: file configurebase.ui line 171
+#: rc.cpp:30 rc.cpp:153
+#, no-c-format
+msgid "Wireless"
+msgstr "Gan Sreang"
+
+#. i18n: file configurebase.ui line 176
+#: rc.cpp:33 rc.cpp:156
+#, no-c-format
+msgid "Kppp"
+msgstr "Kppp"
+
+#. i18n: file configurebase.ui line 436
+#: rc.cpp:36 rc.cpp:48 rc.cpp:159 rc.cpp:171
+#, no-c-format
+msgid "Download color:"
+msgstr "Dath íosluchtaithe:"
+
+#. i18n: file configurebase.ui line 465
+#: rc.cpp:39 rc.cpp:45 rc.cpp:162 rc.cpp:168
+#, no-c-format
+msgid "Upload color:"
+msgstr "Dath uasluchtaithe:"
+
+#. i18n: file configurebase.ui line 489
+#: rc.cpp:42 rc.cpp:165
+#, no-c-format
+msgid "Background:"
+msgstr "Cúlra:"
+
+#. i18n: file configurebase.ui line 537
+#: rc.cpp:51 rc.cpp:174
+#, no-c-format
+msgid "Transparent background"
+msgstr "Cúlra trédhearcach"
+
+#. i18n: file configurebase.ui line 567
+#: rc.cpp:57 rc.cpp:180
+#, no-c-format
+msgid "Icon"
+msgstr "Deilbhín"
+
+#. i18n: file configurebase.ui line 572
+#: rc.cpp:60 rc.cpp:183
+#, no-c-format
+msgid "Text"
+msgstr "Téacs"
+
+#. i18n: file configurebase.ui line 577
+#: rc.cpp:63 rc.cpp:186
+#, no-c-format
+msgid "Chart"
+msgstr "Cairt"
+
+#. i18n: file configurebase.ui line 589
+#: rc.cpp:66 rc.cpp:189
+#, no-c-format
+msgid "View mode:"
+msgstr "Mód amhairc:"
+
+#. i18n: file configurebase.ui line 597
+#: rc.cpp:69 rc.cpp:192
+#, no-c-format
+msgid "Update interval:"
+msgstr "Eatramh idir nuashonruithe:"
+
+#. i18n: file configurebase.ui line 617
+#: rc.cpp:72 rc.cpp:195
+#, no-c-format
+msgid "ms"
+msgstr "ms"
+
+#. i18n: file configurebase.ui line 625
+#: rc.cpp:75 rc.cpp:198
+#, no-c-format
+msgid "To monitor this interface"
+msgstr "Chun monatóireacht a dhéanamh ar an gcomhéadan seo"
+
+#. i18n: file statisticsbase.ui line 87
+#: rc.cpp:81 rc.cpp:204
+#, no-c-format
+msgid "? KB/s"
+msgstr "? kB/s"
+
+#. i18n: file statisticsbase.ui line 103
+#: rc.cpp:84 rc.cpp:207
+#, no-c-format
+msgid "0 KB/s"
+msgstr "0 kB/s"
+
+#. i18n: file statisticsbase.ui line 128
+#: rc.cpp:87 rc.cpp:210
+#, no-c-format
+msgid "&Statistics"
+msgstr "&Staitisticí"
+
+#. i18n: file statisticsbase.ui line 139
+#: rc.cpp:90 rc.cpp:213
+#, no-c-format
+msgid "Upload speed:"
+msgstr "Luas uasluchtaithe:"
+
+#. i18n: file statisticsbase.ui line 147
+#: rc.cpp:93 rc.cpp:216
+#, no-c-format
+msgid "Received:"
+msgstr "Faighte:"
+
+#. i18n: file statisticsbase.ui line 155
+#: rc.cpp:96 rc.cpp:219
+#, no-c-format
+msgid "Download speed:"
+msgstr "Luas íosluchtaithe:"
+
+#. i18n: file statisticsbase.ui line 163
+#: rc.cpp:99 rc.cpp:222
+#, no-c-format
+msgid "Transmited:"
+msgstr "Tarchurtha:"
+
+#. i18n: file statisticsbase.ui line 196
+#: rc.cpp:102 rc.cpp:225
+#, no-c-format
+msgid "Bytes"
+msgstr "Beart"
+
+#. i18n: file statisticsbase.ui line 260
+#: rc.cpp:105 rc.cpp:228
+#, no-c-format
+msgid "Packets"
+msgstr "Paicéid"
+
+#. i18n: file statisticsbase.ui line 270
+#: rc.cpp:108 rc.cpp:231
+#, no-c-format
+msgid "Deta&ils"
+msgstr "Sonr&aí"
+
+#. i18n: file statisticsbase.ui line 281
+#: rc.cpp:111 rc.cpp:234
+#, no-c-format
+msgid "IP:"
+msgstr "IP:"
+
+#. i18n: file statisticsbase.ui line 289
+#: rc.cpp:114 rc.cpp:237
+#, no-c-format
+msgid "Netmask:"
+msgstr "Masc líonra:"
+
+#. i18n: file statisticsbase.ui line 297
+#: rc.cpp:117 rc.cpp:240
+#, no-c-format
+msgid "MAC:"
+msgstr "MAC:"
+
+#. i18n: file statisticsbase.ui line 305
+#: rc.cpp:120 rc.cpp:243
+#, no-c-format
+msgid "MTU:"
+msgstr "MTU:"
+
+#. i18n: file statisticsbase.ui line 451
+#: rc.cpp:123 rc.cpp:246
+#, no-c-format
+msgid "O&k"
+msgstr "O&k"
+
+#: statistics.cpp:34
+#, c-format
+msgid "Details of %1"
+msgstr "Mionsonraí %1"

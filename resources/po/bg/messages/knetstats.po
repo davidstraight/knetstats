@@ -1,0 +1,307 @@
+# translation of knetstats.po to Bulgarian
+#
+# Zlatko Popov <zlatkopopov@fsa-bg.org>, 2006, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: knetstats\n"
+"POT-Creation-Date: 2008-07-08 22:20+0200\n"
+"PO-Revision-Date: 2007-04-22 23:32+0000\n"
+"Last-Translator: Zlatko Popov <zlatkopopov@fsa-bg.org>\n"
+"Language-Team: Bulgarian <dict@linux.zonebg.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Златко Попов"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "zlatkopopov@fsa-bg.org"
+
+#: configure.cpp:128
+msgid "You need to select at least one interface to monitor."
+msgstr "Трябва да изберете поне един интерфейс за монитора."
+
+#: knetstats.cpp:89
+msgid "You need kernel 2.6.x with support to the /sys filesystem."
+msgstr "Трябва ви ядро 2.6.x с поддръжка на файловата система /sys."
+
+#: knetstats.cpp:187
+#, c-format
+msgid "New interface detected: %1"
+msgstr "Беше открит нов интерфейс: %1"
+
+#: knetstatsview.cpp:92
+#, c-format
+msgid "Monitoring %1"
+msgstr "Наблюдение на %1"
+
+#: knetstatsview.cpp:152
+msgid "%1 is inactive"
+msgstr "%1 е неактивен"
+
+#: knetstatsview.cpp:155
+msgid "%1 is active"
+msgstr "%1 е активен"
+
+#: knetstatsview.cpp:172
+msgid "%1 is disconnected"
+msgstr "%1 е изключен"
+
+#: knetstatsview.cpp:177
+msgid "%1 is connected"
+msgstr "%1 е включен"
+
+#. i18n: file statisticsbase.ui line 24
+#: main.cpp:33 rc.cpp:78 rc.cpp:201
+#, no-c-format
+msgid "KNetStats"
+msgstr "KNetStats"
+
+#: main.cpp:39
+msgid "A network device monitor."
+msgstr "Наблюдения на мрежови устройства."
+
+#: main.cpp:45
+msgid "_: NAME OF TRANSLATORS"
+msgstr "Златко Попов"
+
+#: main.cpp:45
+msgid "_: EMAIL OF TRANSLATORS"
+msgstr "zlatkopopov@fsa-bg.org"
+
+#: main.cpp:49
+msgid "SCons help, Debian packages, etc."
+msgstr "Помощ за SCons, пакети за Debian и т.н."
+
+#: main.cpp:50
+msgid "Icon themes"
+msgstr "Теми за икони"
+
+#: main.cpp:53
+msgid "KNetStats translation to other languages"
+msgstr "Превод на KNetStats на други езици"
+
+#: main.cpp:61
+msgid ""
+"You do not have any network interface.\n"
+"KNetStats will quit now."
+msgstr ""
+"Нямате мрежов интерфейс.\n"
+"KNetStats ще бъде спряна."
+
+#. i18n: file configurebase.ui line 24
+#: rc.cpp:3 rc.cpp:126
+#, no-c-format
+msgid "Configure KNetStats"
+msgstr "Настройване на KNetStats"
+
+#. i18n: file configurebase.ui line 63
+#: rc.cpp:6 rc.cpp:129
+#, no-c-format
+msgid "Ok"
+msgstr "ОК"
+
+#. i18n: file configurebase.ui line 150
+#: rc.cpp:18 rc.cpp:141
+#, no-c-format
+msgid "Theme:"
+msgstr "Тема:"
+
+#. i18n: file configurebase.ui line 156
+#: rc.cpp:21 rc.cpp:144
+#, no-c-format
+msgid "Classic"
+msgstr "Класическа"
+
+#. i18n: file configurebase.ui line 161
+#: rc.cpp:24 rc.cpp:147
+#, no-c-format
+msgid "Modem"
+msgstr "Модерна"
+
+#. i18n: file configurebase.ui line 166
+#: rc.cpp:27 rc.cpp:150
+#, no-c-format
+msgid "Network"
+msgstr "Мрежа"
+
+#. i18n: file configurebase.ui line 171
+#: rc.cpp:30 rc.cpp:153
+#, no-c-format
+msgid "Wireless"
+msgstr "Безжична"
+
+#. i18n: file configurebase.ui line 176
+#: rc.cpp:33 rc.cpp:156
+#, no-c-format
+msgid "Kppp"
+msgstr "Kppp"
+
+#. i18n: file configurebase.ui line 436
+#: rc.cpp:36 rc.cpp:48 rc.cpp:159 rc.cpp:171
+#, no-c-format
+msgid "Download color:"
+msgstr "Цвят - сваляне:"
+
+#. i18n: file configurebase.ui line 465
+#: rc.cpp:39 rc.cpp:45 rc.cpp:162 rc.cpp:168
+#, no-c-format
+msgid "Upload color:"
+msgstr "Цвят - качване:"
+
+#. i18n: file configurebase.ui line 489
+#: rc.cpp:42 rc.cpp:165
+#, no-c-format
+msgid "Background:"
+msgstr "Фон:"
+
+#. i18n: file configurebase.ui line 537
+#: rc.cpp:51 rc.cpp:174
+#, no-c-format
+msgid "Transparent background"
+msgstr "Прозрачен фон"
+
+#. i18n: file configurebase.ui line 567
+#: rc.cpp:57 rc.cpp:180
+#, no-c-format
+msgid "Icon"
+msgstr "Икона"
+
+#. i18n: file configurebase.ui line 572
+#: rc.cpp:60 rc.cpp:183
+#, no-c-format
+msgid "Text"
+msgstr "Текст"
+
+#. i18n: file configurebase.ui line 577
+#: rc.cpp:63 rc.cpp:186
+#, no-c-format
+msgid "Chart"
+msgstr "Диаграма"
+
+#. i18n: file configurebase.ui line 589
+#: rc.cpp:66 rc.cpp:189
+#, no-c-format
+msgid "View mode:"
+msgstr "Режим на преглед:"
+
+#. i18n: file configurebase.ui line 597
+#: rc.cpp:69 rc.cpp:192
+#, no-c-format
+msgid "Update interval:"
+msgstr "Интервал на качване:"
+
+#. i18n: file configurebase.ui line 617
+#: rc.cpp:72 rc.cpp:195
+#, no-c-format
+msgid "ms"
+msgstr "мс"
+
+#. i18n: file configurebase.ui line 625
+#: rc.cpp:75 rc.cpp:198
+#, no-c-format
+msgid "To monitor this interface"
+msgstr "За наблюдение на този интерфейс"
+
+#. i18n: file statisticsbase.ui line 87
+#: rc.cpp:81 rc.cpp:204
+#, no-c-format
+msgid "? KB/s"
+msgstr "? кБ/сек"
+
+#. i18n: file statisticsbase.ui line 103
+#: rc.cpp:84 rc.cpp:207
+#, no-c-format
+msgid "0 KB/s"
+msgstr "0 кБ/сек"
+
+#. i18n: file statisticsbase.ui line 128
+#: rc.cpp:87 rc.cpp:210
+#, no-c-format
+msgid "&Statistics"
+msgstr "&Статистика"
+
+#. i18n: file statisticsbase.ui line 139
+#: rc.cpp:90 rc.cpp:213
+#, no-c-format
+msgid "Upload speed:"
+msgstr "Скорост на качване:"
+
+#. i18n: file statisticsbase.ui line 147
+#: rc.cpp:93 rc.cpp:216
+#, no-c-format
+msgid "Received:"
+msgstr "Получени:"
+
+#. i18n: file statisticsbase.ui line 155
+#: rc.cpp:96 rc.cpp:219
+#, no-c-format
+msgid "Download speed:"
+msgstr "Скорост на сваляне:"
+
+#. i18n: file statisticsbase.ui line 163
+#: rc.cpp:99 rc.cpp:222
+#, no-c-format
+msgid "Transmited:"
+msgstr "Прехвърлени:"
+
+#. i18n: file statisticsbase.ui line 196
+#: rc.cpp:102 rc.cpp:225
+#, no-c-format
+msgid "Bytes"
+msgstr "Байта"
+
+#. i18n: file statisticsbase.ui line 260
+#: rc.cpp:105 rc.cpp:228
+#, no-c-format
+msgid "Packets"
+msgstr "Пакета"
+
+#. i18n: file statisticsbase.ui line 270
+#: rc.cpp:108 rc.cpp:231
+#, no-c-format
+msgid "Deta&ils"
+msgstr "&Подробности"
+
+#. i18n: file statisticsbase.ui line 281
+#: rc.cpp:111 rc.cpp:234
+#, no-c-format
+msgid "IP:"
+msgstr "IP:"
+
+#. i18n: file statisticsbase.ui line 289
+#: rc.cpp:114 rc.cpp:237
+#, no-c-format
+msgid "Netmask:"
+msgstr "Мрежова маска:"
+
+#. i18n: file statisticsbase.ui line 297
+#: rc.cpp:117 rc.cpp:240
+#, no-c-format
+msgid "MAC:"
+msgstr "MAC:"
+
+#. i18n: file statisticsbase.ui line 305
+#: rc.cpp:120 rc.cpp:243
+#, no-c-format
+msgid "MTU:"
+msgstr "MTU:"
+
+#. i18n: file statisticsbase.ui line 451
+#: rc.cpp:123 rc.cpp:246
+#, no-c-format
+msgid "O&k"
+msgstr "ОК"
+
+#: statistics.cpp:34
+#, c-format
+msgid "Details of %1"
+msgstr "Подробности за %1"

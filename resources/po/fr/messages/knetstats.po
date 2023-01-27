@@ -1,0 +1,314 @@
+# translation of knetstats.po to Francais
+# French translation of KNetStats.
+# Copyright (C) 2004 Hugo Parente Lima
+# This file is distributed under the same license as the KNetStats package.
+#
+# Guillaume Savaton <guillaume.savaton@free.fr>, 2005.
+# Mickael Sibelle <mickael.sibelle@laposte.net>, 2006.
+# Mickaël Sibelle <kimael@gmail.com>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: knetstats\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-08 22:20+0200\n"
+"PO-Revision-Date: 2006-12-22 00:28+0000\n"
+"Last-Translator: Mickael Sibelle <mickael.sibelle@laposte.net>\n"
+"Language-Team: Francais <kde-francophone@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Guillaume Savaton, Mickaël Sibelle"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "guillaume.savaton@free.fr, kimael@gmail.com"
+
+#: configure.cpp:128
+msgid "You need to select at least one interface to monitor."
+msgstr "Vous devez sélectionner au moins une interface à surveiller."
+
+#: knetstats.cpp:89
+msgid "You need kernel 2.6.x with support to the /sys filesystem."
+msgstr ""
+"Vous avez besoin du noyau 2.6.x avec le support du système de fichier /sys."
+
+#: knetstats.cpp:187
+#, c-format
+msgid "New interface detected: %1"
+msgstr "Nouvelle interface détectée : %1"
+
+#: knetstatsview.cpp:92
+#, c-format
+msgid "Monitoring %1"
+msgstr "Surveillance de %1"
+
+#: knetstatsview.cpp:152
+msgid "%1 is inactive"
+msgstr "%1 est inactif"
+
+#: knetstatsview.cpp:155
+msgid "%1 is active"
+msgstr "%1 est actif"
+
+#: knetstatsview.cpp:172
+msgid "%1 is disconnected"
+msgstr "%1 est déconnecté"
+
+#: knetstatsview.cpp:177
+msgid "%1 is connected"
+msgstr "%1 est connecté"
+
+#. i18n: file statisticsbase.ui line 24
+#: main.cpp:33 rc.cpp:78 rc.cpp:201
+#, no-c-format
+msgid "KNetStats"
+msgstr "KNetStats"
+
+#: main.cpp:39
+msgid "A network device monitor."
+msgstr "Un moniteur d'interface réseau."
+
+#: main.cpp:45
+msgid "_: NAME OF TRANSLATORS"
+msgstr "Guillaume Savaton, Mickaël Sibelle"
+
+#: main.cpp:45
+msgid "_: EMAIL OF TRANSLATORS"
+msgstr "guillaume.savaton@free.fr, kimael@gmail.com"
+
+#: main.cpp:49
+msgid "SCons help, Debian packages, etc."
+msgstr "Aide de SCons, paquets Debian, etc."
+
+#: main.cpp:50
+msgid "Icon themes"
+msgstr "Thèmes des icônes"
+
+#: main.cpp:53
+msgid "KNetStats translation to other languages"
+msgstr "Traduction de KNetStats dans d'autres langues"
+
+#: main.cpp:61
+msgid ""
+"You do not have any network interface.\n"
+"KNetStats will quit now."
+msgstr ""
+"Vous n'avez aucune interface réseau.\n"
+"KNetStats va se terminer."
+
+#. i18n: file configurebase.ui line 24
+#: rc.cpp:3 rc.cpp:126
+#, no-c-format
+msgid "Configure KNetStats"
+msgstr "Configurer KNetStats"
+
+#. i18n: file configurebase.ui line 63
+#: rc.cpp:6 rc.cpp:129
+#, no-c-format
+msgid "Ok"
+msgstr "Ok"
+
+#. i18n: file configurebase.ui line 150
+#: rc.cpp:18 rc.cpp:141
+#, no-c-format
+msgid "Theme:"
+msgstr "Thème :"
+
+#. i18n: file configurebase.ui line 156
+#: rc.cpp:21 rc.cpp:144
+#, no-c-format
+msgid "Classic"
+msgstr "Classique"
+
+#. i18n: file configurebase.ui line 161
+#: rc.cpp:24 rc.cpp:147
+#, no-c-format
+msgid "Modem"
+msgstr "Modem"
+
+#. i18n: file configurebase.ui line 166
+#: rc.cpp:27 rc.cpp:150
+#, no-c-format
+msgid "Network"
+msgstr "Réseau"
+
+#. i18n: file configurebase.ui line 171
+#: rc.cpp:30 rc.cpp:153
+#, no-c-format
+msgid "Wireless"
+msgstr "Sans fil"
+
+#. i18n: file configurebase.ui line 176
+#: rc.cpp:33 rc.cpp:156
+#, no-c-format
+msgid "Kppp"
+msgstr "Kppp"
+
+#. i18n: file configurebase.ui line 436
+#: rc.cpp:36 rc.cpp:48 rc.cpp:159 rc.cpp:171
+#, no-c-format
+msgid "Download color:"
+msgstr "Couleur pour la réception :"
+
+#. i18n: file configurebase.ui line 465
+#: rc.cpp:39 rc.cpp:45 rc.cpp:162 rc.cpp:168
+#, no-c-format
+msgid "Upload color:"
+msgstr "Couleur pour l'émission :"
+
+#. i18n: file configurebase.ui line 489
+#: rc.cpp:42 rc.cpp:165
+#, no-c-format
+msgid "Background:"
+msgstr "Arrière-plan :"
+
+#. i18n: file configurebase.ui line 537
+#: rc.cpp:51 rc.cpp:174
+#, no-c-format
+msgid "Transparent background"
+msgstr "Fond transparent"
+
+#. i18n: file configurebase.ui line 567
+#: rc.cpp:57 rc.cpp:180
+#, no-c-format
+msgid "Icon"
+msgstr "Icône"
+
+#. i18n: file configurebase.ui line 572
+#: rc.cpp:60 rc.cpp:183
+#, no-c-format
+msgid "Text"
+msgstr "Texte"
+
+#. i18n: file configurebase.ui line 577
+#: rc.cpp:63 rc.cpp:186
+#, no-c-format
+msgid "Chart"
+msgstr "Graphique"
+
+#. i18n: file configurebase.ui line 589
+#: rc.cpp:66 rc.cpp:189
+#, no-c-format
+msgid "View mode:"
+msgstr "Mode de visualisation :"
+
+#. i18n: file configurebase.ui line 597
+#: rc.cpp:69 rc.cpp:192
+#, no-c-format
+msgid "Update interval:"
+msgstr "Délai de mise à jour :"
+
+#. i18n: file configurebase.ui line 617
+#: rc.cpp:72 rc.cpp:195
+#, no-c-format
+msgid "ms"
+msgstr "ms"
+
+#. i18n: file configurebase.ui line 625
+#: rc.cpp:75 rc.cpp:198
+#, no-c-format
+msgid "To monitor this interface"
+msgstr "Pour surveiller cette interface"
+
+#. i18n: file statisticsbase.ui line 87
+#: rc.cpp:81 rc.cpp:204
+#, no-c-format
+msgid "? KB/s"
+msgstr "? Ko/s"
+
+#. i18n: file statisticsbase.ui line 103
+#: rc.cpp:84 rc.cpp:207
+#, no-c-format
+msgid "0 KB/s"
+msgstr "0 Ko/s"
+
+#. i18n: file statisticsbase.ui line 128
+#: rc.cpp:87 rc.cpp:210
+#, no-c-format
+msgid "&Statistics"
+msgstr "&Statistiques"
+
+#. i18n: file statisticsbase.ui line 139
+#: rc.cpp:90 rc.cpp:213
+#, no-c-format
+msgid "Upload speed:"
+msgstr "Vitesse d'émission :"
+
+#. i18n: file statisticsbase.ui line 147
+#: rc.cpp:93 rc.cpp:216
+#, no-c-format
+msgid "Received:"
+msgstr "Reçu :"
+
+#. i18n: file statisticsbase.ui line 155
+#: rc.cpp:96 rc.cpp:219
+#, no-c-format
+msgid "Download speed:"
+msgstr "Vitesse de réception :"
+
+#. i18n: file statisticsbase.ui line 163
+#: rc.cpp:99 rc.cpp:222
+#, no-c-format
+msgid "Transmited:"
+msgstr "Envoyé :"
+
+#. i18n: file statisticsbase.ui line 196
+#: rc.cpp:102 rc.cpp:225
+#, no-c-format
+msgid "Bytes"
+msgstr "Octets"
+
+#. i18n: file statisticsbase.ui line 260
+#: rc.cpp:105 rc.cpp:228
+#, no-c-format
+msgid "Packets"
+msgstr "Paquets"
+
+#. i18n: file statisticsbase.ui line 270
+#: rc.cpp:108 rc.cpp:231
+#, no-c-format
+msgid "Deta&ils"
+msgstr "Déta&ils"
+
+#. i18n: file statisticsbase.ui line 281
+#: rc.cpp:111 rc.cpp:234
+#, no-c-format
+msgid "IP:"
+msgstr "IP :"
+
+#. i18n: file statisticsbase.ui line 289
+#: rc.cpp:114 rc.cpp:237
+#, no-c-format
+msgid "Netmask:"
+msgstr "Masque de sous-réseau :"
+
+#. i18n: file statisticsbase.ui line 297
+#: rc.cpp:117 rc.cpp:240
+#, no-c-format
+msgid "MAC:"
+msgstr "MAC :"
+
+#. i18n: file statisticsbase.ui line 305
+#: rc.cpp:120 rc.cpp:243
+#, no-c-format
+msgid "MTU:"
+msgstr "MTU :"
+
+#. i18n: file statisticsbase.ui line 451
+#: rc.cpp:123 rc.cpp:246
+#, no-c-format
+msgid "O&k"
+msgstr "O&k"
+
+#: statistics.cpp:34
+#, c-format
+msgid "Details of %1"
+msgstr "Détails de %1"

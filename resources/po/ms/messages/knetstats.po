@@ -1,0 +1,310 @@
+# knetstats Bahasa Melayu (Malay) (ms)
+# Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>, 2008
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: knetstats\n"
+"POT-Creation-Date: 2008-07-08 22:20+0200\n"
+"PO-Revision-Date: 2008-02-22 22:13+0800\n"
+"Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>\n"
+"Language-Team: Malay <kedidiemas@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Sharuzzaman Ahmat Raslan"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "<sharuzzaman@myrealbox.com>"
+
+#: configure.cpp:128
+msgid "You need to select at least one interface to monitor."
+msgstr ""
+
+#: knetstats.cpp:89
+msgid "You need kernel 2.6.x with support to the /sys filesystem."
+msgstr ""
+
+#: knetstats.cpp:187
+#, fuzzy, c-format
+msgid "New interface detected: %1"
+msgstr "Tiada peranti dikesan !"
+
+#: knetstatsview.cpp:92
+#, fuzzy, c-format
+msgid "Monitoring %1"
+msgstr "Pemerhatian"
+
+#: knetstatsview.cpp:152
+#, fuzzy
+msgid "%1 is inactive"
+msgstr "seadanya"
+
+#: knetstatsview.cpp:155
+#, fuzzy
+msgid "%1 is active"
+msgstr "Aktifkan Plugin"
+
+#: knetstatsview.cpp:172
+#, fuzzy
+msgid "%1 is disconnected"
+msgstr "seadanya"
+
+#: knetstatsview.cpp:177
+#, fuzzy
+msgid "%1 is connected"
+msgstr "seadanya"
+
+#. i18n: file statisticsbase.ui line 24
+#: main.cpp:33 rc.cpp:78 rc.cpp:201
+#, no-c-format
+msgid "KNetStats"
+msgstr ""
+
+#: main.cpp:39
+#, fuzzy
+msgid "A network device monitor."
+msgstr "Monitor status Samba"
+
+#: main.cpp:45
+msgid "_: NAME OF TRANSLATORS"
+msgstr "Sharuzzaman Ahmat Raslan"
+
+#: main.cpp:45
+msgid "_: EMAIL OF TRANSLATORS"
+msgstr "<sharuzzaman@myrealbox.com>"
+
+#: main.cpp:49
+msgid "SCons help, Debian packages, etc."
+msgstr ""
+
+#: main.cpp:50
+#, fuzzy
+msgid "Icon themes"
+msgstr "Tema dan Penampilan"
+
+#: main.cpp:53
+msgid "KNetStats translation to other languages"
+msgstr ""
+
+#: main.cpp:61
+msgid ""
+"You do not have any network interface.\n"
+"KNetStats will quit now."
+msgstr ""
+
+#. i18n: file configurebase.ui line 24
+#: rc.cpp:3 rc.cpp:126
+#, fuzzy, no-c-format
+msgid "Configure KNetStats"
+msgstr "Konfigur Panel"
+
+#. i18n: file configurebase.ui line 63
+#: rc.cpp:6 rc.cpp:129
+#, fuzzy, no-c-format
+msgid "Ok"
+msgstr "OK"
+
+#. i18n: file configurebase.ui line 150
+#: rc.cpp:18 rc.cpp:141
+#, fuzzy, no-c-format
+msgid "Theme:"
+msgstr "Tema"
+
+#. i18n: file configurebase.ui line 156
+#: rc.cpp:21 rc.cpp:144
+#, no-c-format
+msgid "Classic"
+msgstr ""
+
+#. i18n: file configurebase.ui line 161
+#: rc.cpp:24 rc.cpp:147
+#, no-c-format
+msgid "Modem"
+msgstr ""
+
+#. i18n: file configurebase.ui line 166
+#: rc.cpp:27 rc.cpp:150
+#, fuzzy, no-c-format
+msgid "Network"
+msgstr "Jaringan"
+
+#. i18n: file configurebase.ui line 171
+#: rc.cpp:30 rc.cpp:153
+#, fuzzy, no-c-format
+msgid "Wireless"
+msgstr "Jaringan Tanpa Wayar"
+
+#. i18n: file configurebase.ui line 176
+#: rc.cpp:33 rc.cpp:156
+#, no-c-format
+msgid "Kppp"
+msgstr ""
+
+#. i18n: file configurebase.ui line 436
+#: rc.cpp:36 rc.cpp:48 rc.cpp:159 rc.cpp:171
+#, fuzzy, no-c-format
+msgid "Download color:"
+msgstr "Warna latarbelakang:"
+
+#. i18n: file configurebase.ui line 465
+#: rc.cpp:39 rc.cpp:45 rc.cpp:162 rc.cpp:168
+#, fuzzy, no-c-format
+msgid "Upload color:"
+msgstr "Warna latarbelakang:"
+
+#. i18n: file configurebase.ui line 489
+#: rc.cpp:42 rc.cpp:165
+#, fuzzy, no-c-format
+msgid "Background:"
+msgstr "Latarbelakang"
+
+#. i18n: file configurebase.ui line 537
+#: rc.cpp:51 rc.cpp:174
+#, fuzzy, no-c-format
+msgid "Transparent background"
+msgstr "Warna latarbelakang:"
+
+#. i18n: file configurebase.ui line 567
+#: rc.cpp:57 rc.cpp:180
+#, fuzzy, no-c-format
+msgid "Icon"
+msgstr "Editor Ikon"
+
+#. i18n: file configurebase.ui line 572
+#: rc.cpp:60 rc.cpp:183
+#, no-c-format
+msgid "Text"
+msgstr "Teks"
+
+#. i18n: file configurebase.ui line 577
+#: rc.cpp:63 rc.cpp:186
+#, no-c-format
+msgid "Chart"
+msgstr "Carta"
+
+#. i18n: file configurebase.ui line 589
+#: rc.cpp:66 rc.cpp:189
+#, fuzzy, no-c-format
+msgid "View mode:"
+msgstr "M-x nxml-mode"
+
+#. i18n: file configurebase.ui line 597
+#: rc.cpp:69 rc.cpp:192
+#, fuzzy, no-c-format
+msgid "Update interval:"
+msgstr " Auto Kemaskini"
+
+#. i18n: file configurebase.ui line 617
+#: rc.cpp:72 rc.cpp:195
+#, no-c-format
+msgid "ms"
+msgstr ""
+
+#. i18n: file configurebase.ui line 625
+#: rc.cpp:75 rc.cpp:198
+#, fuzzy, no-c-format
+msgid "To monitor this interface"
+msgstr "Ubah kepada cadangan ejaan ini"
+
+#. i18n: file statisticsbase.ui line 87
+#: rc.cpp:81 rc.cpp:204
+#, no-c-format
+msgid "? KB/s"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 103
+#: rc.cpp:84 rc.cpp:207
+#, no-c-format
+msgid "0 KB/s"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 128
+#: rc.cpp:87 rc.cpp:210
+#, fuzzy, no-c-format
+msgid "&Statistics"
+msgstr "Statistik:"
+
+#. i18n: file statisticsbase.ui line 139
+#: rc.cpp:90 rc.cpp:213
+#, no-c-format
+msgid "Upload speed:"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 147
+#: rc.cpp:93 rc.cpp:216
+#, no-c-format
+msgid "Received:"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 155
+#: rc.cpp:96 rc.cpp:219
+#, fuzzy, no-c-format
+msgid "Download speed:"
+msgstr "Muatturun Dipilih"
+
+#. i18n: file statisticsbase.ui line 163
+#: rc.cpp:99 rc.cpp:222
+#, no-c-format
+msgid "Transmited:"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 196
+#: rc.cpp:102 rc.cpp:225
+#, no-c-format
+msgid "Bytes"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 260
+#: rc.cpp:105 rc.cpp:228
+#, no-c-format
+msgid "Packets"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 270
+#: rc.cpp:108 rc.cpp:231
+#, no-c-format
+msgid "Deta&ils"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 281
+#: rc.cpp:111 rc.cpp:234
+#, no-c-format
+msgid "IP:"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 289
+#: rc.cpp:114 rc.cpp:237
+#, no-c-format
+msgid "Netmask:"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 297
+#: rc.cpp:117 rc.cpp:240
+#, no-c-format
+msgid "MAC:"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 305
+#: rc.cpp:120 rc.cpp:243
+#, no-c-format
+msgid "MTU:"
+msgstr ""
+
+#. i18n: file statisticsbase.ui line 451
+#: rc.cpp:123 rc.cpp:246
+#, no-c-format
+msgid "O&k"
+msgstr ""
+
+#: statistics.cpp:34
+#, fuzzy, c-format
+msgid "Details of %1"
+msgstr "Perincian"
