@@ -1,0 +1,34 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KNetStats
+Name[pa]=ਕੇ-ਨੈੱਟ-ਹਾਲਤ
+Name[sv]=Knetstats
+Name[xx]=xxKNetStatsxx
+GenericName=KNetStats
+GenericName[sv]=Knetstats
+GenericName[xx]=xxKNetStatsxx
+Comment=Network monitor
+Comment[bg]=Наблюдение на мрежа
+Comment[da]=Netværksovervåger
+Comment[de]=Netzwerkmonitor
+Comment[el]=Επόπτης δικτύου
+Comment[es]=Monitor de red
+Comment[et]=Võrgujälgija
+Comment[it]=Monitor di rete
+Comment[ja]=ネットワークモニター
+Comment[ms]=Pemerhati rangkaian
+Comment[nl]=Netwerkmonitor
+Comment[pt]=Monitor da rede
+Comment[pt_BR]=Monitor da rede
+Comment[sr]=Надгледање мреже
+Comment[sr@Latn]=Nadgledanje mreže
+Comment[sv]=Nätverksövervakare
+Comment[tr]=Ağ izleyici
+Comment[xx]=xxNetwork monitorxx
+Exec=knetstats
+Icon=knetstats
+Terminal=false
+Type=Application
+Categories=Qt;KDE;Network
+X-KDE-StartupNotify=true
+
