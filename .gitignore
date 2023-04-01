@@ -2,4 +2,5 @@ release/
 build/
 debug/
 
-*.vscode
+.vscode/
+
